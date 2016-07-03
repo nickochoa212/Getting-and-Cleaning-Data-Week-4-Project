@@ -1,6 +1,6 @@
 # Getting-and-Cleaning-Data-Week-4-Project
-There is just one script in the repo to perform all of the tidying and analysis.
-The script is called run_analysis.R
+##There is just one script in the repo to perform all of the tidying and analysis.
+##The script is called run_analysis.R
 
 To make the script work for your data, you will just need to modify Line 14 so that the appropriate working directory is set for your R Studio.  You should point to the folder that contains the folder "UCI HAR Dataset"
 
